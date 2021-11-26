@@ -1,0 +1,3 @@
+http://lolth.ics.uci.edu/cgi-bin/cgiwrap/sudeep/file_upload.cgi
+http://cocoa-krispies.ics.uci.edu/~paolo/JuliusC
+http://mapgrid.ics.uci.edu

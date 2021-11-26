@@ -1,0 +1,7 @@
+https://www.cs.uci.edu/events/seminar-series/?seminar_id=132
+http://www.ics.uci.edu/~dsm/dyn/release/changelog.txt
+http://www.ics.uci.edu/~dsm/dyn/release/files/zImage_paapi
+http://dynamo.ics.uci.edu/files/zImage_paapi
+http://dynamo.ics.uci.edu/changelog.txt
+http://flamingo.ics.uci.edu/._.DS_Store
+http://flamingo.ics.uci.edu/.DS_Store
